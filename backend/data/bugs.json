@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bug-001",
+    "title": "Login redirects to wrong page",
+    "severity": "high",
+    "found_date": "2026-04-04T10:00:00Z",
+    "found_in_month": "2026-04",
+    "traced_to_pr_id": "pr-001",
+    "traced_to_developer_id": "dev-001"
+  },
+  {
+    "id": "bug-002",
+    "title": "Dark mode CSS breaks on Firefox",
+    "severity": "medium",
+    "found_date": "2026-04-06T14:00:00Z",
+    "found_in_month": "2026-04",
+    "traced_to_pr_id": "pr-002",
+    "traced_to_developer_id": "dev-001"
+  },
+  {
+    "id": "bug-003",
+    "title": "Mobile menu doesn't close on item click",
+    "severity": "medium",
+    "found_date": "2026-04-07T09:00:00Z",
+    "found_in_month": "2026-04",
+    "traced_to_pr_id": "pr-005",
+    "traced_to_developer_id": "dev-002"
+  },
+  {
+    "id": "bug-004",
+    "title": "Rate limiting blocks legitimate requests",
+    "severity": "high",
+    "found_date": "2026-04-11T16:00:00Z",
+    "found_in_month": "2026-04",
+    "traced_to_pr_id": "pr-006",
+    "traced_to_developer_id": "dev-002"
+  },
+  {
+    "id": "bug-005",
+    "title": "Caching returns stale data",
+    "severity": "high",
+    "found_date": "2026-04-14T10:00:00Z",
+    "found_in_month": "2026-04",
+    "traced_to_pr_id": "pr-007",
+    "traced_to_developer_id": "dev-002"
+  }
+]

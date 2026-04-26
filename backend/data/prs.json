@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pr-001",
+    "author_id": "dev-001",
+    "title": "Fix login session timeout",
+    "opened_at": "2026-04-02T09:00:00Z",
+    "merged_at": "2026-04-02T14:00:00Z",
+    "status": "merged"
+  },
+  {
+    "id": "pr-002",
+    "author_id": "dev-001",
+    "title": "Add dark mode CSS",
+    "opened_at": "2026-04-03T09:00:00Z",
+    "merged_at": "2026-04-03T15:00:00Z",
+    "status": "merged"
+  },
+  {
+    "id": "pr-003",
+    "author_id": "dev-001",
+    "title": "Optimize dashboard queries",
+    "opened_at": "2026-04-05T10:00:00Z",
+    "merged_at": "2026-04-05T16:00:00Z",
+    "status": "merged"
+  },
+  {
+    "id": "pr-004",
+    "author_id": "dev-001",
+    "title": "Update API docs",
+    "opened_at": "2026-04-08T10:00:00Z",
+    "merged_at": "2026-04-08T15:00:00Z",
+    "status": "merged"
+  },
+  {
+    "id": "pr-005",
+    "author_id": "dev-002",
+    "title": "Fix mobile menu layout",
+    "opened_at": "2026-04-04T10:00:00Z",
+    "merged_at": "2026-04-04T12:00:00Z",
+    "status": "merged"
+  },
+  {
+    "id": "pr-006",
+    "author_id": "dev-002",
+    "title": "Add API rate limiting",
+    "opened_at": "2026-04-05T09:00:00Z",
+    "merged_at": "2026-04-06T14:00:00Z",
+    "status": "merged"
+  },
+  {
+    "id": "pr-007",
+    "author_id": "dev-002",
+    "title": "Implement caching layer",
+    "opened_at": "2026-04-06T10:00:00Z",
+    "merged_at": "2026-04-07T11:00:00Z",
+    "status": "merged"
+  },
+  {
+    "id": "pr-008",
+    "author_id": "dev-002",
+    "title": "Add performance monitoring",
+    "opened_at": "2026-04-10T09:00:00Z",
+    "merged_at": "2026-04-11T16:00:00Z",
+    "status": "merged"
+  },
+  {
+    "id": "pr-009",
+    "author_id": "dev-002",
+    "title": "Fix edge case in auth",
+    "opened_at": "2026-04-12T10:00:00Z",
+    "merged_at": "2026-04-13T14:00:00Z",
+    "status": "merged"
+  },
+  {
+    "id": "pr-010",
+    "author_id": "dev-002",
+    "title": "Refactor payment service",
+    "opened_at": "2026-04-15T10:00:00Z",
+    "merged_at": "2026-04-16T15:00:00Z",
+    "status": "merged"
+  },
+  {
+    "id": "pr-011",
+    "author_id": "dev-003",
+    "title": "Refactor auth module",
+    "opened_at": "2026-04-02T11:00:00Z",
+    "merged_at": "2026-04-10T13:00:00Z",
+    "status": "merged"
+  },
+  {
+    "id": "pr-012",
+    "author_id": "dev-003",
+    "title": "Add payment unit tests",
+    "opened_at": "2026-04-11T10:00:00Z",
+    "merged_at": "2026-04-20T15:00:00Z",
+    "status": "merged"
+  }
+]

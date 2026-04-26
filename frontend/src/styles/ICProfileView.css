@@ -1,0 +1,27 @@
+/**
+ * src/styles/ICProfileView.css
+ */
+
+.ic-profile-view {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.profile-header {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid #0066cc;
+}
+
+.profile-header h2 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.profile-header .developer-meta {
+  color: #666;
+  margin-bottom: 0;
+}

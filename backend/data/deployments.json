@@ -1,0 +1,62 @@
+[
+  {
+    "id": "deploy-001",
+    "deployed_at": "2026-04-02T18:00:00Z",
+    "status": "success",
+    "included_pr_ids": ["pr-001"]
+  },
+  {
+    "id": "deploy-002",
+    "deployed_at": "2026-04-04T17:30:00Z",
+    "status": "success",
+    "included_pr_ids": ["pr-002"]
+  },
+  {
+    "id": "deploy-003",
+    "deployed_at": "2026-04-05T18:00:00Z",
+    "status": "success",
+    "included_pr_ids": ["pr-003", "pr-005"]
+  },
+  {
+    "id": "deploy-004",
+    "deployed_at": "2026-04-06T17:00:00Z",
+    "status": "success",
+    "included_pr_ids": ["pr-004", "pr-006"]
+  },
+  {
+    "id": "deploy-005",
+    "deployed_at": "2026-04-07T18:30:00Z",
+    "status": "success",
+    "included_pr_ids": ["pr-007"]
+  },
+  {
+    "id": "deploy-006",
+    "deployed_at": "2026-04-11T17:00:00Z",
+    "status": "success",
+    "included_pr_ids": ["pr-008"]
+  },
+  {
+    "id": "deploy-007",
+    "deployed_at": "2026-04-13T18:00:00Z",
+    "status": "success",
+    "included_pr_ids": ["pr-009"]
+  },
+  {
+    "id": "deploy-008",
+    "deployed_at": "2026-04-16T17:00:00Z",
+    "status": "success",
+    "included_pr_ids": ["pr-010"]
+  },
+  {
+    "id": "deploy-009",
+    "deployed_at": "2026-04-10T18:00:00Z",
+    "status": "success",
+    "included_pr_ids": ["pr-011"]
+  },
+  {
+    "id": "deploy-010",
+    "deployed_at": "2026-04-20T18:30:00Z",
+    "status": "success",
+    "included_pr_ids": ["pr-012"]
+  }
+]

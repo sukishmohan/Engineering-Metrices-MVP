@@ -51,3 +51,4 @@ INTERVIEW_PREP.md
 # Uncomment below if you want to track lock files
 # package-lock.json
 # yarn.lock
+.vercel
